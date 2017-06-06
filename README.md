@@ -9,7 +9,7 @@ from [VPN Gate](http://www.vpngate.net/en/).
 First clone the repo and `cd` into the directory:
 
 ```bash
-$ git clone https://github.com/adtac/autovpn
+$ git clone git@github.com:augustgerro/autovpn.git
 $ cd autovpn
 ```
 
